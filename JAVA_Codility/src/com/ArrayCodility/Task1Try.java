@@ -23,28 +23,6 @@ public class Task1Try {
 			K--;
 		}
 		
-		/*int[] temp=new int[A.length-K];
-		int j=0,r1=K,i;
-		for(i=0;i<A.length;i++)
-		{
-			//System.out.println("check "+i);
-			temp[j]=A[i];
-			if(A.length-r1!=A.length)
-				break;
-			A[i] = A[A.length-r1];
-			r1--;
-			j++;
-		}
-		
-		for(j=0;i<A.length;i++)
-		{
-			if(j<temp.length)
-			{
-			A[i]=temp[j];
-			j++;
-			}	
-		}*/
-		
 		return A; 
 	}
 	public static void main(String[] args) {
