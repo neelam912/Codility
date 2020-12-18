@@ -36,7 +36,7 @@ public class MaxCounters {
 				lar=count[A[i]-1];
 				}
 			}
-		}System.out.println("output being printed below down");
+		}System.out.println("edited with branch fixbug,output being printed below down");
 
 		for(i=0;i<N;i++)
 		{
