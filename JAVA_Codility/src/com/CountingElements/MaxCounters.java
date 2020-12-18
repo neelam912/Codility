@@ -37,6 +37,7 @@ public class MaxCounters {
 				}
 			}
 		}System.out.println("output being printed below down");
+
 		for(i=0;i<N;i++)
 		{
 			System.out.println(count[i]);
