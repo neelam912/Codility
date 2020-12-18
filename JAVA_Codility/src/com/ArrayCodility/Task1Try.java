@@ -49,16 +49,6 @@ public class Task1Try {
 	}
 	public static void main(String[] args) {
 		int n, r;
-//		Scanner sc=new 	Scanner(System.in);
-//		System.out.println("enter the num of elements in array");
-//		n=sc.nextInt();
-//		System.out.println("enter the num of rotations you want to perform");
-//		r=sc.nextInt();
-//		int[] arr=new int[n];
-//		for(int i=0;i<n;i++)
-//		{
-//			arr[i]=sc.nextInt();
-//		}
 		int arr1[]= {3,8,9,7,6};
 		arr1=rotate(arr1,1);
 		for(int i=0;i<arr1.length;i++)
